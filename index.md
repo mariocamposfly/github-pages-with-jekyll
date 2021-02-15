@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to TGW
 
-I'm glad you are here. I plan to talk about ...
+Companies choice, developers dream!
